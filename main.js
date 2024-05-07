@@ -21,6 +21,6 @@ document.querySelector('#app').innerHTML = `
   </div>
 `
 
-console.log('HELLO TEST SERVICE LOGS');
+console.log('HELLO TEST SERVICE LOGS FROM SIDE BRANCH');
 
 setupCounter(document.querySelector('#counter'))
