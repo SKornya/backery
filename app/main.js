@@ -1,2 +1,2 @@
-console.log('HELLO WORLD FROM TEST-SERVICE');
+console.log('HELLO WORLD FROM ANOTHER BRANCH OF TEST-SERVICE');
 while(true) {};
