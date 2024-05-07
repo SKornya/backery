@@ -1,6 +1,5 @@
 services:
   app:
-    container_name: test-service
     build: ./app
     ports:
-      - 5173:5173
+      - 81:80

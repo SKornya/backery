@@ -1,7 +1,2 @@
-FROM node:20
-WORKDIR /app
-COPY package.json yarn.lock ./
-RUN yarn 
-COPY . .
-EXPOSE 5173
-CMD ["yarn", "dev"]
+FROM httpd:2.4
+COPY ./ /usr/local/apache2/htdocs/
