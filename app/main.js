@@ -1,2 +1,3 @@
 console.log('HELLO WORLD FROM ANOTHER BRANCH OF TEST-SERVICE');
+console.log('THIS IS ANOTHER ERROR MESSAGE 123');
 while(true) {};
