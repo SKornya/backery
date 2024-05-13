@@ -1,3 +1,2 @@
-console.log('HELLO WORLD FROM TEST-SERVICE');
-console.error('THIS IS ERROR MESSAGE');
-while(true) {};
+console.log('Логи сервиса');
+console.log('Hello world');
